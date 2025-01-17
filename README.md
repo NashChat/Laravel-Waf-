@@ -104,7 +104,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Albert]([https://github.com/albertcat](https://github.com/NashChat))
+- [nachash]([](https://github.com/NashChat))
 - [All Contributors](../../contributors)
 
 ## License
